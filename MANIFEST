@@ -86,3 +86,4 @@ examples/docbook2latex.xps
 examples/sample-docbook.xml
 
 SIGNATURE    Added here by Module::Build
+META.json
